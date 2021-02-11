@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  font-family: monospace;
+  background: url("./img/bg.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+
+code {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
