@@ -1,10 +1,11 @@
 body {
   margin: 0;
   font-family: monospace;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
   background: url("./img/bg.jpg");
-  background-size: cover;
+  background-size: 100vh 100vh;
   background-repeat: no-repeat;
-  background-position: top;
 }
 
 code {
