@@ -14,7 +14,17 @@
     
   }
 
- 
+.naslov{
+  color: aliceblue;
+  margin-top: 1.3rem;
+} 
+
+@media (max-width: 991px){
+  .naslov{
+    font-size: 3vh;
+  }
+
+}
 
   
   

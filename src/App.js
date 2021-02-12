@@ -104,6 +104,7 @@ class App extends React.Component {
   render() {
     return (
       <div className="App">
+        <h2 className="naslov">Check the current weather for your current location or in other places</h2>
         <Form loadweather={this.getW} error={this.state.error} />
         <Weather
           cityname={this.state.city}
